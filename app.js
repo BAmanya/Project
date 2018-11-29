@@ -1,2 +1,2 @@
 console.log('Hello World!');
-console.log('Amanya');
+console.log('Beishekeev Amanya');
